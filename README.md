@@ -8,7 +8,7 @@ Building realistic projects to improve my front-end skills.
 
 ### Links
 
-- Live Site URL: [Four card feature](https://social-pr00f.netlify.app/)
+- Live Site URL: [Four card feature](https://f0ur-card-feature.netlify.app/)
 
 ## Built with
 
